@@ -9,7 +9,7 @@ I'm self driven, hard working and easy going. I am currently studying Computing 
 
 ## Experience:
 ### CVS Brent(2019)
-Worked with managers at CVS Brent to create an app that alowed health care workers an easier way to find community activities for socially isolated people.
+Worked with the technical partner at CVS Brent to create an app that allowed health care workers an easier way to find community activities for socially isolated people.
 
 ## Projects I've coded:
 ### Keyword King
