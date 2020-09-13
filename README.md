@@ -14,6 +14,7 @@ Worked with the technical partner at CVS Brent to create an app that allowed hea
 ## Projects I've coded:
 ### SIBI Activity Search
 An app that makes it easier for social and health care workers find activities for people that are socially isolated due to health or mental issues.
+[SIBI Activity Search Repo](https://github.com/christocarr/sibi-activity-search-v3)
 
 ## Technical skills:
 
