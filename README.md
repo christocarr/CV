@@ -5,7 +5,7 @@ I'm a web developer, with a passion for creating engaging websites and apps.
 
 I enjoy building digital products that either solve problems or entertain people. Preferrably in Javascript and React.
 
-I'm self driven, hard working and easy going. I am currently studying Computing and IT and The Open University.
+I'm self driven, hard working and easy going. I am currently studying Computing and IT at The Open University.
 
 ## Experience:
 ### CVS Brent(2019)
