@@ -3,7 +3,7 @@
 # Chris Carr
 I'm a web developer, with a passion for creating engaging websites and apps.
 
-I enjoy building digital products that either solve problems or entertain people. Preferrably in Javascript and React.
+I enjoy building digital products that either solve problems or entertain people. I love working with the JAMstack, that allows me to take my React skills to the next level.
 
 I'm self driven, hard working and easy going. I am currently studying Computing and IT at The Open University.
 
@@ -29,6 +29,8 @@ An app that makes it easier for social and health care workers find activities f
 * jQuery
 * Twitter Bootstrap
 * React JS
+* Nextjs
+* Gatsby
 
 **Back-end:**
 
